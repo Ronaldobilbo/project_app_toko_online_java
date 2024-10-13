@@ -1,5 +1,7 @@
 ========================
+
 BUILD OUTPUT DESCRIPTION
+
 ========================
 
 When you build an Java application project that has a main class, the IDE
@@ -32,15 +34,23 @@ class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
 
 
+
+
+
+
 ======================
+
 VIEW FROM ONLINE STORE
+
 ======================
 
 ![image](https://github.com/user-attachments/assets/865dd8a2-b6d3-4699-ad72-6d27fdf10454)
 
 
-=====================
-display add, delete, save, search data using mysql database
-=====================
+============================================================
+
+DISPLAY ADD, DELETE, SAVE, SEARCH DATA USING MYSQL DATABASE
+
+============================================================
 ![image](https://github.com/user-attachments/assets/14b32d67-4f5d-4e4f-ade6-a3c8e91b2d1a)
 
